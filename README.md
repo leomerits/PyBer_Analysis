@@ -23,4 +23,6 @@ http://localhost:8888/files/Documents/GITHUB/Class%20Work/Assignments/PyBer_Anal
 # Summary
 On the multiple line graph, it was also shown thaturban cities had the highest total fare wthin the months of January, February, March and April more than suburban and rural cities. Through this project, PyBer was able to see that majority of there revenue comes from the urban city, which also means that majority of their drivers are centered around the urban cities, which, even though it was not a part of this analysis, their highes insurance payout would also have been around this same cities. 
 
+![image](https://user-images.githubusercontent.com/34757498/138544345-74641a07-4ea8-41e4-bffe-6b422191116f.png)
+
 

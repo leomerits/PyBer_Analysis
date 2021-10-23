@@ -17,8 +17,8 @@ It was shown that there is a larger demand of riders for PyBer in the urban citi
      
 Aagain, it was shown thata there were larger volume of drivers which in turn increased the total volume of fares in urban cities in comparism to the suburban and rural cities as was dipicted by the graphs below.
   
-http://localhost:8888/files/Documents/GITHUB/Class%20Work/Assignments/PyBer_Analysis/analysis/Fig7.png
-http://localhost:8888/files/Documents/GITHUB/Class%20Work/Assignments/PyBer_Analysis/analysis/Fig5.png
+![image](https://user-images.githubusercontent.com/34757498/138544477-2548deb0-574f-4c2e-a7dc-95ef1b800f43.png)
+![image](https://user-images.githubusercontent.com/34757498/138544482-c530fc3e-16b6-401f-bcef-7ea304894ea6.png)
 
 
 # Summary

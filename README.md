@@ -12,7 +12,8 @@ In this project, we are to perform an indept analysis of PyBer ride sharing data
    
 It was shown that there is a larger demand of riders for PyBer in the urban cities compared to the suburban and rural cities as we can see on the figure below.
     
-http://localhost:8888/files/Documents/GITHUB/Class%20Work/Assignments/PyBer_Analysis/analysis/Fig6.png
+![image](https://user-images.githubusercontent.com/34757498/138544406-a0d9c225-cb15-4c32-9c04-e8b6e605adda.png)
+
      
 Aagain, it was shown thata there were larger volume of drivers which in turn increased the total volume of fares in urban cities in comparism to the suburban and rural cities as was dipicted by the graphs below.
   
